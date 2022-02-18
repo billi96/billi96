@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @billi96
+- 👋 Hi, I’m Deepak Pokharel from Nepal.
 - 👀 I’m interested in full stack web developement.
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on github to meet with developers around the word.
